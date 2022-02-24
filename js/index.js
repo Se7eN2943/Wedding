@@ -1,5 +1,5 @@
-let endDate = new Date("Aug 7, 2021 11:00:00").getTime();
-let endDate2 = new Date("Aug 7, 2021").getTime();
+let endDate = new Date("Aug 7, 2022 11:00:00").getTime();
+let endDate2 = new Date("Aug 7, 2022").getTime();
 let timer = document.querySelector(".timer")
 let d = document.querySelector(".day")
 let h = document.querySelector(".hours")
